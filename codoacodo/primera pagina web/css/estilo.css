@@ -1,0 +1,24 @@
+p {
+    color:#8989cb;
+    text-align: center;
+    font-style: italic;
+    }
+
+#lamejorreceta {
+ text-align: right;
+}
+#lamejorreceta a {
+color: aqua;
+}
+
+a {
+    color: #db22db;
+}
+h1 {
+    text-align: right;
+    color: #ffff00;
+}
+.verde-negrita{
+    color: green;
+    font-weight: bold;
+    }

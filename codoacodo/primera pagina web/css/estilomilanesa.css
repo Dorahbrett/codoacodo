@@ -1,0 +1,55 @@
+p {
+    color:#8989cb;
+    text-align: center;
+    font-style: italic;
+    }
+
+html{
+   /*font-size: 16px;*/
+   font-size: 20px;
+}
+.ingredientes {
+    list-style-image: url(../img/milanesa.jpg);
+}
+
+#eltitulo {
+    font-size: 2em;
+}
+
+#especial {
+    font-size: 20px;
+}
+.amarillo{
+background-color: #ffff00;
+text-align: justify;
+text-decoration: none;
+
+}
+
+h1,h2 {
+        display: inline;
+    }
+
+img{
+        display: block;
+    }
+
+#lamejorreceta {
+ text-align: right;
+}
+
+#lamejorreceta a {
+color: aqua;
+}
+
+a {
+    color: #db22db;
+}
+h1 {
+    text-align: right;
+    color: #ffff00;
+}
+.verde-negrita{
+    color: green;
+    font-weight: bold;
+    }
